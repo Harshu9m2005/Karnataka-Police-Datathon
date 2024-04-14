@@ -25,7 +25,7 @@ We welcome contributions from the community! Whether it's fixing bugs, adding ne
 
 License:
 
-GNU License
+GNU General Public License
 
 Contact:
 
